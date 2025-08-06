@@ -3,6 +3,7 @@ __pycache__
 .env
 rentr.egg-info
 build
+docker-compose.yaml
 
 
 
